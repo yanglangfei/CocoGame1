@@ -4,12 +4,10 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MotionEvent;
-
 import com.ylf.jucaipen.cocogame1.sence.GameLayer1;
 import com.ylf.jucaipen.cocogame1.sence.GameLayer2;
 import com.ylf.jucaipen.cocogame1.sence.GameLayer3;
 import com.ylf.jucaipen.cocogame1.sence.GameLayer4;
-
 import org.cocos2d.layers.CCScene;
 import org.cocos2d.nodes.CCDirector;
 import org.cocos2d.opengl.CCGLSurfaceView;

@@ -20,4 +20,16 @@
         android:id="@+id/name"
         android:text="name"/>
 
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:id="@+id/parent"
+        android:layout_below="@+id/logo"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content">
+
+
+    </RelativeLayout>
+
+
+
 </RelativeLayout>
